@@ -8,7 +8,10 @@ Helpful links around OCP and related topics
 - [Official Openshift Blog](https://blog.openshift.com/)
 - https://developers.redhat.com/
 - [Reference Architecture Openshift](https://blog.openshift.com/openshift-container-platform-reference-architecture-implementation-guides/)
--
+
+### Guides
+
+- [Openshift starter Workshop Guides](https://github.com/openshift-labs/starter-guides)
 
 ## Monitoring & Visualisation
 
@@ -35,9 +38,12 @@ Helpful links around OCP and related topics
 ## Videos
 
 - [RedHat Summit 2018 Breakout sessions](https://www.youtube.com/playlist?list=PLEGSLwUsxfEgT4XEohmRe_JB6MBnmLfBh)
+- [Openshift Youtube Channel](https://www.youtube.com/channel/UCZKMj3YI0wP-kq4QYpaKdEA)
 
-## Other topics
+## Related topics
 
 - [Awesome Lists](https://github.com/sindresorhus/awesome)
 - [IT-Landscape for sysadmins](http://sysadmin.it-landscape.info/)
 - [Cloud Native Computing Foundation](https://www.cncf.io/)
+- [Google SRE Ebook](https://landing.google.com/sre/book/index.html)
+- [Twelve Factor Applications](https://12factor.net/)
