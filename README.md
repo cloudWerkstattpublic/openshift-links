@@ -28,6 +28,10 @@ Helpful links around OCP and related topics
 
 - [Fundamentals of Containers, Kubernetes, and Red Hat OpenShift (EDX)](https://www.edx.org/course/fundamentals-containers-kubernetes-red-hat-do081x)
 
+## Interactive Learning Portal
+
+- https://learn.openshift.com/
+
 ## Videos
 
 - [RedHat Summit 2018 Breakout sessions](https://www.youtube.com/playlist?list=PLEGSLwUsxfEgT4XEohmRe_JB6MBnmLfBh)
