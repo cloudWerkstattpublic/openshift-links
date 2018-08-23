@@ -19,6 +19,9 @@ Helpful links around OCP and related topics
 ### Container Runtimes
 
 - [cri-o](http://cri-o.io/)
+- Docker
+  - [Official Docker 1.13 documentation](https://docs.docker.com/v1.13/)
+  - [DevDocs Docker 1.13 documentation](http://devdocs.io/docker~1.13/)
 
 ### Monitoring & Visualisation
 
