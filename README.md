@@ -14,7 +14,13 @@ Helpful links around OCP and related topics
 - [Openshift Starter Workshop](https://github.com/openshift-labs/starter-guides)
 - [Openshift DevOps Workshop](https://github.com/openshift-labs/devops-guides)
 
-## Monitoring & Visualisation
+## Components
+
+### Container Runtimes
+
+- [cri-o](http://cri-o.io/)
+
+### Monitoring & Visualisation
 
 - [Prometheus](http://prometheus.io/)
 - [Grafana](http://grafana.com/)
@@ -43,8 +49,19 @@ Helpful links around OCP and related topics
 
 ## Related topics
 
+### General 
+
 - [Awesome Lists](https://github.com/sindresorhus/awesome)
 - [IT-Landscape for sysadmins](http://sysadmin.it-landscape.info/)
-- [Cloud Native Computing Foundation](https://www.cncf.io/)
 - [Google SRE Ebook](https://landing.google.com/sre/book/index.html)
+
+### Dev
+
 - [Twelve Factor Applications](https://12factor.net/)
+
+
+### Organisations
+
+- [Open Container Initiative](https://www.opencontainers.org/community)
+- [Cloud Native Computing Foundation](https://www.cncf.io/)
+
