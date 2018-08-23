@@ -8,6 +8,7 @@ Helpful links around OCP and related topics
 - [Official Openshift Blog](https://blog.openshift.com/)
 - [RedHat Developers](https://developers.redhat.com/)
 - [Reference Architecture Openshift](https://blog.openshift.com/openshift-container-platform-reference-architecture-implementation-guides/)
+- [Tested Integrations](https://access.redhat.com/articles/2176281)
 
 ### Guides
 
