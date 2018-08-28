@@ -3,6 +3,7 @@ Helpful links around OCP and related topics
 
 ## Getting started
 
+- [Containers for Sysadmins](https://opensource.com/article/18/8/sysadmins-guide-containers)
 - http://v1.uncontained.io
 - [Official Documentation v3.10](https://docs.openshift.com/container-platform/3.10/welcome/index.html)
 - [Official Openshift Blog](https://blog.openshift.com/)
