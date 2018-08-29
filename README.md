@@ -16,6 +16,10 @@ Helpful links around OCP and related topics
 - [Openshift Starter Workshop](https://github.com/openshift-labs/starter-guides)
 - [Openshift DevOps Workshop](https://github.com/openshift-labs/devops-guides)
 
+### Tools
+
+- [Openshift Do - odo](https://github.com/redhat-developer/odo)
+
 ## Components
 
 ### Container Runtimes
