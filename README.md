@@ -32,6 +32,8 @@ Helpful links around OCP and related topics
 ### Monitoring & Visualisation
 
 - [Prometheus](http://prometheus.io/)
+- [Thanos](https://github.com/improbable-eng/thanos)
+  - [Thanos Slides from Promcom 2018](https://promcon.io/2018-munich/slides/thanos-prometheus-at-scale.pdf)
 - [Grafana](http://grafana.com/)
 - [Prometheus on Openshift (openshift-ansible role)](https://github.com/openshift/openshift-ansible/tree/master/roles/openshift_prometheus)
 - [Grafana on Openshift (openshift-ansible role)](https://github.com/openshift/openshift-ansible/tree/master/roles/openshift_grafana)
