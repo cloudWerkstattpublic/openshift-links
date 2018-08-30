@@ -18,7 +18,12 @@ Helpful links around OCP and related topics
 
 ### Tools
 
-- [Openshift Do - odo](https://github.com/redhat-developer/odo)
+- [Openshift Do - Openshift developer cli tool](https://github.com/redhat-developer/odo)
+
+### Installation
+
+- [Openshift Ansible Playbooks](https://github.com/openshift/openshift-ansible)
+- [Openshift Azure](https://github.com/openshift/openshift-azure)
 
 ## Components
 
