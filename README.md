@@ -40,6 +40,7 @@ Helpful links around OCP and related topics
 - [Thanos](https://github.com/improbable-eng/thanos)
   - [Thanos Slides from Promcom 2018](https://promcon.io/2018-munich/slides/thanos-prometheus-at-scale.pdf)
 - [Grafana](http://grafana.com/)
+- [Cluster Monitoring Operator](https://github.com/openshift/cluster-monitoring-operator)
 - [Prometheus on Openshift (openshift-ansible role)](https://github.com/openshift/openshift-ansible/tree/master/roles/openshift_prometheus)
 - [Grafana on Openshift (openshift-ansible role)](https://github.com/openshift/openshift-ansible/tree/master/roles/openshift_grafana)
 
