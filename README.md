@@ -7,6 +7,7 @@ Helpful links around OCP and related topics
 - http://v1.uncontained.io
 - [Official Documentation v3.10](https://docs.openshift.com/container-platform/3.10/welcome/index.html)
 - [Official Openshift Blog](https://blog.openshift.com/)
+- [Official Blog Posts Categorized](https://www.certdepot.net/openshift-articles/)
 - [RedHat Developers](https://developers.redhat.com/)
 - [Reference Architecture Openshift](https://blog.openshift.com/openshift-container-platform-reference-architecture-implementation-guides/)
 - [Tested Integrations](https://access.redhat.com/articles/2176281)
