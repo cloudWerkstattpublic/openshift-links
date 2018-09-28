@@ -12,6 +12,7 @@ Helpful links around OCP and related topics
 - [Reference Architecture Openshift](https://blog.openshift.com/openshift-container-platform-reference-architecture-implementation-guides/)
 - [Tested Integrations](https://access.redhat.com/articles/2176281)
 - [Openshift Technical Architecture](http://docs.huihoo.com/openshift/OpenShift-3-Technical-Architecture.pdf)
+- [RedHat Container Catalog](https://access.redhat.com/containers)
 
 ### Guides
 
