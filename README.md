@@ -22,6 +22,7 @@ Helpful links around OCP and related topics
 ### Tools
 
 - [Openshift Do - Openshift developer cli tool](https://github.com/redhat-developer/odo)
+- [Openshift Toolkit](https://github.com/redhat-cop/openshift-toolkit)
 
 ### Installation
 
