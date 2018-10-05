@@ -29,6 +29,10 @@ Helpful links around OCP and related topics
 - [Openshift Ansible Playbooks](https://github.com/openshift/openshift-ansible)
 - [Openshift Azure](https://github.com/openshift/openshift-azure)
 
+### Resources
+
+- [Container Quickstarts Repo](https://github.com/redhat-cop/containers-quickstarts)
+
 ## Components
 
 ### Container Runtimes
