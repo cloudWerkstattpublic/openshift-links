@@ -33,6 +33,10 @@ Helpful links around OCP and related topics
 
 - [Container Quickstarts Repo](https://github.com/redhat-cop/containers-quickstarts)
 
+### Shift Docker to Openshift
+
+- [Converting docker-compose files to Openshift with kompose](https://kubernetes.io/docs/tasks/configure-pod-container/translate-compose-kubernetes/#kompose-convert)
+
 ## Components
 
 ### Container Runtimes
