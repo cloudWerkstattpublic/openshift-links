@@ -14,10 +14,12 @@ Helpful links around OCP and related topics
 - [Openshift Technical Architecture](http://docs.huihoo.com/openshift/OpenShift-3-Technical-Architecture.pdf)
 - [RedHat Container Catalog](https://access.redhat.com/containers)
 
-### Guides
+### Workshops
 
 - [Openshift Starter Workshop](https://github.com/openshift-labs/starter-guides)
 - [Openshift DevOps Workshop](https://github.com/openshift-labs/devops-guides)
+- [Ops-oriented Workshop](https://github.com/RedHatWorkshops/openshiftv3-ops-workshop)
+- [Dev-oriented Workshop](https://github.com/RedHatWorkshops/openshiftv3-workshop)
 
 ### Tools
 
