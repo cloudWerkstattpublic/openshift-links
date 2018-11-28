@@ -20,6 +20,7 @@ Helpful links around OCP and related topics
 - [Openshift DevOps Workshop](https://github.com/openshift-labs/devops-guides)
 - [Ops-oriented Workshop](https://github.com/RedHatWorkshops/openshiftv3-ops-workshop)
 - [Dev-oriented Workshop](https://github.com/RedHatWorkshops/openshiftv3-workshop)
+- [RedHat Open Innovation Labs Exercises](https://rht-labs.github.io/enablement-docs/#/)
 
 ### Tools
 
