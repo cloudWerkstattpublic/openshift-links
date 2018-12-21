@@ -49,15 +49,21 @@ Helpful links around OCP and related topics
   - [Official Docker 1.13 documentation](https://docs.docker.com/v1.13/)
   - [DevDocs Docker 1.13 documentation](http://devdocs.io/docker~1.13/)
 
+### Operators
+
+- [Operator-SDK](https://github.com/operator-framework/operator-sdk)
+- [Awesome-Operators List](https://github.com/operator-framework/awesome-operators)
+- [Cluster Monitoring Operator](https://github.com/openshift/cluster-monitoring-operator)
+
 ### Monitoring & Visualisation
 
 - [Prometheus](http://prometheus.io/)
 - [Thanos](https://github.com/improbable-eng/thanos)
   - [Thanos Slides from Promcom 2018](https://promcon.io/2018-munich/slides/thanos-prometheus-at-scale.pdf)
 - [Grafana](http://grafana.com/)
-- [Cluster Monitoring Operator](https://github.com/openshift/cluster-monitoring-operator)
 - [Prometheus on Openshift (openshift-ansible role)](https://github.com/openshift/openshift-ansible/tree/master/roles/openshift_prometheus)
 - [Grafana on Openshift (openshift-ansible role)](https://github.com/openshift/openshift-ansible/tree/master/roles/openshift_grafana)
+- [Grafana Loki](https://github.com/grafana/loki)
 
 ## Free Ebooks
 
